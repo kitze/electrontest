@@ -2,7 +2,7 @@
   "name": "electron-boilerplate",
   "productName": "Electron Boilerplate",
   "description": "Starter for your Electron application",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Mr. Gumby <mr.gumby@example.com>",
   "copyright": "© 2016, Gumby inc.",
   "homepage": "http://example.com",
