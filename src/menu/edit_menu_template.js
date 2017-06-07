@@ -1,5 +1,5 @@
 export const editMenuTemplate = {
-  label: 'Edit',
+  label: 'Testing Change',
   submenu: [
     { label: 'Undo', accelerator: 'CmdOrCtrl+Z', selector: 'undo:' },
     { label: 'Redo', accelerator: 'Shift+CmdOrCtrl+Z', selector: 'redo:' },
